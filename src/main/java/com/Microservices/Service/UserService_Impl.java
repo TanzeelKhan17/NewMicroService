@@ -69,3 +69,13 @@ public class UserService_Impl implements UserServive {
 	}
 
 }
+
+
+
+
+////Testing My Services
+
+
+
+
+
