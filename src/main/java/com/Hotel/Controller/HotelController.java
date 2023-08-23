@@ -37,6 +37,7 @@ public class HotelController {
 		return ResponseEntity.ok(hs.getAll());
 	}
 	
+	//// Creating Delete Handler Method
 	
 	
 }
